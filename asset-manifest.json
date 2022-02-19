@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a8ebdb01.css",
+    "main.js": "./static/js/main.9f7f5346.js",
+    "static/js/787.19f0d2b8.chunk.js": "./static/js/787.19f0d2b8.chunk.js",
+    "static/media/builder.png": "./static/media/builder.006445c09a9fa6362991.png",
+    "static/media/iphoneTwitter.png": "./static/media/iphoneTwitter.7adbe70e3f411681b403.png",
+    "static/media/laptop.png": "./static/media/laptop.093121be3119c9361339.png",
+    "static/media/stikerIphone.png": "./static/media/stikerIphone.c8f123a80693df7a3b4b.png",
+    "static/media/stikerAndroid.png": "./static/media/stikerAndroid.98b8c00ef220f798475e.png",
+    "static/media/iphone_oleg.png": "./static/media/iphone_oleg.f391b8150b8c91e18a25.png",
+    "static/media/Manrope-ExtraBold.ttf": "./static/media/Manrope-ExtraBold.1d1caae390e0175fb75f.ttf",
+    "static/media/Manrope-Regular.ttf": "./static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
+    "static/media/azure.png": "./static/media/azure.4e044b9c4fc791310115.png",
+    "static/media/afro.png": "./static/media/afro.d6fb0b3c256ca4155901.png",
+    "static/media/pink.png": "./static/media/pink.e9687641f1a37b91da2b.png",
+    "static/media/ponytail.png": "./static/media/ponytail.2f06f0475a15ea5e3216.png",
+    "static/media/glasses__big.png": "./static/media/glasses__big.c2d0621b8e6eb92bc803.png",
+    "static/media/glasses.png": "./static/media/glasses.d6884512de80ed4f8696.png",
+    "static/media/redPoint.png": "./static/media/redPoint.108b95e6b1e4893e8ce0.png",
+    "static/media/bang.png": "./static/media/bang.0041eaf00bfb030d0436.png",
+    "static/media/logo.png": "./static/media/logo.600614e454f5d5685b21.png",
+    "index.html": "./index.html",
+    "main.a8ebdb01.css.map": "./static/css/main.a8ebdb01.css.map",
+    "main.9f7f5346.js.map": "./static/js/main.9f7f5346.js.map",
+    "787.19f0d2b8.chunk.js.map": "./static/js/787.19f0d2b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8ebdb01.css",
+    "static/js/main.9f7f5346.js"
+  ]
+}
