@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.1cf1cc43.css",
-    "main.js": "./static/js/main.49d6b4e8.js",
+    "main.css": "./static/css/main.df069373.css",
+    "main.js": "./static/js/main.7f0c9d02.js",
     "static/js/787.19f0d2b8.chunk.js": "./static/js/787.19f0d2b8.chunk.js",
     "static/media/builder.png": "./static/media/builder.006445c09a9fa6362991.png",
     "static/media/iphoneTwitter.png": "./static/media/iphoneTwitter.7adbe70e3f411681b403.png",
@@ -18,14 +18,15 @@
     "static/media/glasses.png": "./static/media/glasses.ac049aaed912a28ee679.png",
     "static/media/redPoint.png": "./static/media/redPoint.b7f9c87f6ea8880002c9.png",
     "static/media/bang.png": "./static/media/bang.ac43b58f3c447f2a4533.png",
+    "static/media/bang-man.png": "./static/media/bang-man.03b4bddd6e94eb7ee363.png",
     "static/media/logo.png": "./static/media/logo.600614e454f5d5685b21.png",
     "index.html": "./index.html",
-    "main.1cf1cc43.css.map": "./static/css/main.1cf1cc43.css.map",
-    "main.49d6b4e8.js.map": "./static/js/main.49d6b4e8.js.map",
+    "main.df069373.css.map": "./static/css/main.df069373.css.map",
+    "main.7f0c9d02.js.map": "./static/js/main.7f0c9d02.js.map",
     "787.19f0d2b8.chunk.js.map": "./static/js/787.19f0d2b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cf1cc43.css",
-    "static/js/main.49d6b4e8.js"
+    "static/css/main.df069373.css",
+    "static/js/main.7f0c9d02.js"
   ]
 }
