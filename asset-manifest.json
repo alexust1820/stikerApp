@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.df069373.css",
-    "main.js": "./static/js/main.7f0c9d02.js",
+    "main.css": "./static/css/main.1cdfa4df.css",
+    "main.js": "./static/js/main.7d2ed775.js",
     "static/js/787.19f0d2b8.chunk.js": "./static/js/787.19f0d2b8.chunk.js",
-    "static/media/builder.png": "./static/media/builder.006445c09a9fa6362991.png",
+    "static/media/builder.png": "./static/media/builder.82ca23ab0ed234f4ce39.png",
     "static/media/iphoneTwitter.png": "./static/media/iphoneTwitter.7adbe70e3f411681b403.png",
     "static/media/laptop.png": "./static/media/laptop.093121be3119c9361339.png",
     "static/media/stikerIphone.png": "./static/media/stikerIphone.c8f123a80693df7a3b4b.png",
     "static/media/stikerAndroid.png": "./static/media/stikerAndroid.98b8c00ef220f798475e.png",
-    "static/media/iphone_oleg.png": "./static/media/iphone_oleg.f391b8150b8c91e18a25.png",
+    "static/media/iphoneOleg.png": "./static/media/iphoneOleg.f391b8150b8c91e18a25.png",
     "static/media/Manrope-ExtraBold.ttf": "./static/media/Manrope-ExtraBold.1d1caae390e0175fb75f.ttf",
     "static/media/Manrope-Regular.ttf": "./static/media/Manrope-Regular.b1d694f660569a9a9ee6.ttf",
     "static/media/azure.png": "./static/media/azure.4e044b9c4fc791310115.png",
@@ -21,12 +21,12 @@
     "static/media/bang-man.png": "./static/media/bang-man.03b4bddd6e94eb7ee363.png",
     "static/media/logo.png": "./static/media/logo.600614e454f5d5685b21.png",
     "index.html": "./index.html",
-    "main.df069373.css.map": "./static/css/main.df069373.css.map",
-    "main.7f0c9d02.js.map": "./static/js/main.7f0c9d02.js.map",
+    "main.1cdfa4df.css.map": "./static/css/main.1cdfa4df.css.map",
+    "main.7d2ed775.js.map": "./static/js/main.7d2ed775.js.map",
     "787.19f0d2b8.chunk.js.map": "./static/js/787.19f0d2b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df069373.css",
-    "static/js/main.7f0c9d02.js"
+    "static/css/main.1cdfa4df.css",
+    "static/js/main.7d2ed775.js"
   ]
 }
